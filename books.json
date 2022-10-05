@@ -706,6 +706,12 @@
       "book-name": "Algorithms Unlocked",
       "Author": "Thomas H. Cormen",
       "language": "English"
+    },
+    {
+      "id": "1197",
+      "book-name": "Eat That Frog",
+      "Author": "Brain Tracy",
+      "language": "English"
     }
   ]
 }
